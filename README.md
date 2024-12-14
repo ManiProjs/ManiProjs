@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mani.<br>Coding is my favorite<br>Working on <br>BeagleSoftware Package Manager (BsPM),<br>- WinGets (A Go program that publishes your Windows app to Microsoft/Winget-Pkgs repo)<br>- Redesigned BeagleEditor <br>- BeagleShell (bSH) (Something like Nushell)<br>- Some Mac apps<br>I can code in <br>- Python<br>- Rust<br>- Go<br>- C/C++ (just a little)<br>- JavaScript and TypeScript<br>- and more!!
+I'm Mani.<br>Coding is my favorite<br>Working on <br>- BeagleSoftware Package Manager (BsPM),<br>- WinGets (A Go program that publishes your Windows app to Microsoft/Winget-Pkgs repo)<br>- Redesigned BeagleEditor <br>- BeagleShell (bSH) (Something like Nushell)<br>- Some Mac apps<br>I can code in <br>- Python<br>- Rust<br>- Go<br>- C/C++ (just a little)<br>- JavaScript and TypeScript<br>- and more!!
 
 
 ## 🌐 Socials:
